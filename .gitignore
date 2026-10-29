@@ -1,0 +1,7 @@
+# Sequencing data and benchmark output (too large for git)
+fyp seaweed/
+*.fast5
+*.pod5
+*.fastq
+*.fastq.gz
+bench_*/
